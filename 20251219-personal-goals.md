@@ -7,7 +7,7 @@
 ### Key Results
 
 **1. Publish team foundation documentation** - Publish core documentation by end of FY:
-   - PDR (Product Design Review) outlining team scope and services
+   - PDR (https://www.atlassian.com/agile/product-management/requirements) outlining team scope and services
    - Technical strategy with minimum 5 ADRs/RFCs covering key architectural decisions
    - Sprint process with definition of done and escalation paths
 
@@ -32,6 +32,7 @@
    - Create FY26 roadmap for monitoring and SLA implementation
 
 ## Objective 3: Maintain Stakeholder Alignment (20%)
+
 *Keep leadership informed through regular updates and reviews.*
 
 ### Key Results
